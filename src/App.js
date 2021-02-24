@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import { getAllNotes, deleteNote, editNote } from './api';
+import React from 'react';
 
 function App() {
   return (
